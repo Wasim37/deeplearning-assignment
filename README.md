@@ -1,12 +1,12 @@
 # deeplearning-assignment
 
-Îâ¶÷´ï-Éî¶ÈÑ§Ï°-¿Îºó×÷Òµ-´ğ°¸Óë×Ü½á
+å´æ©è¾¾-æ·±åº¦å­¦ä¹ -è¯¾åä½œä¸š-ç­”æ¡ˆä¸æ€»ç»“
 
-¿Îºó×÷ÒµÖ»ÉÏ´«ÁËipynbÎÄ¼ş£¬ÆäËû×ÊÁÏÈçÏÂ£º
-- Îâ¶÷´ïÉî¶ÈÑ§Ï°ÊÓÆµµØÖ·£º½øÈëhttp://study.163.com£¬ËÑË÷"Îâ¶÷´ï"
-- Ö´ĞĞipynbÎÄ¼şËùĞèµÄÊı¾İ¼¯ÏÂÔØµØÖ·, 
-- Îâ¶÷´ï¿Î³ÌPDF×ÊÁÏÏÂÔØµØÖ·, Á´½Ó£ºhttps://pan.baidu.com/s/1jICJFjo ÃÜÂë£º7sm1
+è¯¾åä½œä¸šåªä¸Šä¼ äº†ipynbæ–‡ä»¶ï¼Œå…¶ä»–èµ„æ–™å¦‚ä¸‹ï¼š
+- å´æ©è¾¾æ·±åº¦å­¦ä¹ è§†é¢‘åœ°å€ï¼šè¿›å…¥ http://study.163.com ç½‘ç«™ï¼Œæœç´¢"å´æ©è¾¾"
+- æ‰§è¡Œipynbæ–‡ä»¶æ‰€éœ€çš„æ•°æ®é›†ä¸‹è½½åœ°å€, 
+- å´æ©è¾¾è¯¾ç¨‹PDFèµ„æ–™ä¸‹è½½åœ°å€, é“¾æ¥ï¼šhttps://pan.baidu.com/s/1jICJFjo å¯†ç ï¼š7sm1
 
-PS: ipynbÎÄ¼şÖĞĞèÒªÊÖ¶¯±àÂëµÄÇøÓòÈçÍ¼ËùÊ¾£º
+**PS: ipynbæ–‡ä»¶ä¸­éœ€è¦æ‰‹åŠ¨ç¼–ç çš„åŒºåŸŸå¦‚å›¾æ‰€ç¤ºï¼š**
 
-![±àÂëÇøÓò](http://7xvfir.com1.z0.glb.clouddn.com/%E7%BC%96%E7%A0%81%E5%8C%BA%E5%9F%9F.png?imageView2/0/q/75|watermark/1/image/aHR0cDovLzd4dmZpci5jb20xLnowLmdsYi5jbG91ZGRuLmNvbS8lRTYlQjAlQjQlRTUlOEQlQjAvJUU1JThEJTlBJUU1JUFFJUEyJUU2JUIwJUI0JUU1JThEJUIwLnBuZw==/dissolve/100/gravity/SouthEast/dx/10/dy/10|imageslim)
+![ç¼–ç åŒºåŸŸ](http://7xvfir.com1.z0.glb.clouddn.com/%E7%BC%96%E7%A0%81%E5%8C%BA%E5%9F%9F.png?imageView2/0/q/75|watermark/1/image/aHR0cDovLzd4dmZpci5jb20xLnowLmdsYi5jbG91ZGRuLmNvbS8lRTYlQjAlQjQlRTUlOEQlQjAvJUU1JThEJTlBJUU1JUFFJUEyJUU2JUIwJUI0JUU1JThEJUIwLnBuZw==/dissolve/100/gravity/SouthEast/dx/10/dy/10|imageslim)
