@@ -4,7 +4,7 @@
 
 课后作业只上传了ipynb文件，其他资料如下：
 - 吴恩达深度学习视频地址：进入 http://study.163.com 网站，搜索"吴恩达"
-- 执行ipynb文件所需的数据集下载地址, 
+- 执行ipynb文件所需的数据集下载地址, 链接：https://pan.baidu.com/s/1kUYLZhH 密码：tcgx
 - 吴恩达课程PDF资料下载地址, 链接：https://pan.baidu.com/s/1jICJFjo 密码：7sm1
 
 **PS: ipynb文件中需要手动编码的区域如图所示：**
