@@ -3,7 +3,7 @@
 吴恩达-深度学习-课后作业-答案与总结
 
 因文件数量太多太大，作业只上传了ipynb文件，其他附件存放于网盘中
-- 执行ipynb文件所需的数据集下载地址, 链接：https://pan.baidu.com/s/1kUYLZhH 密码：tcgx
+- 执行ipynb文件所需附件下载地址, 链接：https://pan.baidu.com/s/1jJSbB74 密码：5rag
 - 吴恩达深度学习视频地址：进入 http://study.163.com 网站，搜索"吴恩达"
 - 吴恩达课程PDF资料下载地址, 链接：https://pan.baidu.com/s/1jICJFjo 密码：7sm1
 
