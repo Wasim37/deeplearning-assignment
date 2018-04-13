@@ -9,4 +9,7 @@
 
 **PS: ipynb文件中需要手动编码的区域如图所示：**
 
-![编码区域](http://7xvfir.com1.z0.glb.clouddn.com/%E7%BC%96%E7%A0%81%E5%8C%BA%E5%9F%9F.png?imageView2/0/q/75|watermark/1/image/aHR0cDovLzd4dmZpci5jb20xLnowLmdsYi5jbG91ZGRuLmNvbS8lRTYlQjAlQjQlRTUlOEQlQjAvJUU1JThEJTlBJUU1JUFFJUEyJUU2JUIwJUI0JUU1JThEJUIwLnBuZw==/dissolve/100/gravity/SouthEast/dx/10/dy/10|imageslim)
+#注意
+其中 
+  .ipynb 文件为用户 Wasim37 原创,在此对其的劳动表示感谢
+  .m 文件是我自己移植到matlab中的代码,只是方便我自己看的
