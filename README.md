@@ -9,4 +9,4 @@
 
 **PS: ipynb文件中需要手动编码的区域如图所示：**
 
-![编码区域](http://7xvfir.com1.z0.glb.clouddn.com/%E7%BC%96%E7%A0%81%E5%8C%BA%E5%9F%9F.png?imageView2/0/q/75|watermark/1/image/aHR0cDovLzd4dmZpci5jb20xLnowLmdsYi5jbG91ZGRuLmNvbS8lRTYlQjAlQjQlRTUlOEQlQjAvJUU1JThEJTlBJUU1JUFFJUEyJUU2JUIwJUI0JUU1JThEJUIwLnBuZw==/dissolve/100/gravity/SouthEast/dx/10/dy/10|imageslim)
+![编码区域](http://7xvfir.com1.z0.glb.clouddn.com/%E7%BC%96%E7%A0%81%E5%8C%BA%E5%9F%9F.png)
