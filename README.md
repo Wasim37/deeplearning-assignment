@@ -9,4 +9,4 @@
 
 **PS: ipynb文件中需要手动编码的区域如图所示：**
 
-![编码区域](http://7xvfir.com1.z0.glb.clouddn.com/%E7%BC%96%E7%A0%81%E5%8C%BA%E5%9F%9F.png)
+![编码区域](http://pidemc1ol.bkt.clouddn.com/%E7%BC%96%E7%A0%81%E5%8C%BA%E5%9F%9F.png)
